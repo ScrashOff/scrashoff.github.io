@@ -1,4 +1,34 @@
 ﻿var meusProjetos = [
+	{
+		'name': 'Clorê (2021)',
+		'image': 'assets/images/clore.com.br.png',
+		'description': 'Sistema de e-commerce completo com painel administrativo de desenvolvimento próprio, focado na conversão de vendas e experiência do usuário.'
+	},
+	{
+		'name': 'UNIPAN Distribuição (2021)',
+		'image': 'assets/images/unipandistribuicao.com.br.png',
+		'description': 'Landing page institucional para fábrica de insumos para panificação.'
+	},
+	{
+		'name': 'Edifica Construtora (2021)',
+		'image': 'assets/images/edificaec.com.br.png',
+		'description': 'Landing page institucional para construtora Edifica.'
+	},
+	{
+		'name': 'BBW Advogados (2020)',
+		'image': 'assets/images/bbwadvogados.com.br.png',
+		'description': 'Landing page institucional para grupo de advogados. A página conta com um blog de desenvolvimento próprio para postagem de notícias e gerenciamento de conteúdo.'
+	},
+	{
+		'name': 'TudoLog (2020)',
+		'image': 'assets/images/flow.tudolog.com.br.png',
+		'description': 'Landing page institucional exclusiva para transportadora. O site possui sistema de rastreio e foi utilizado a api interna para consultas no site.'
+	},
+	{
+		'name': 'Beneditto Restaurante (2020)',
+		'image': 'assets/images/flow.beneditto.com.br.png',
+		'description': 'Landing page institucional para restaurante contemporâneo que proporciona uma experiência personalizada para o cliente, oferecendo um menu online disponível via QRCode nas mesas.'
+	},
     {
 		'name': 'SGNE - Sistema de gerenciamento de negócios especializado (2020)',
 		'image': 'assets/images/painel.domma.store.png',
@@ -23,7 +53,7 @@
     {
 		'name': 'FollowInsta (2017-2019)',
 		'image': 'assets/images/followinsta.big.png',
-		'description': 'Uma plataforma que permite que os usuários ganhem seguidores no instagram, no projeto, cuidei do desenvolvimento do layout, codificação frontend e backend, também possui um painel exclusivo para gerenciamento das contas, resoluão de problemas e possui integração com o PagSeguro.'
+		'description': 'Uma plataforma que permite que os usuários ganhem seguidores no instagram, no projeto, cuidei do desenvolvimento do layout, codificação frontend e backend, também possui um painel exclusivo para gerenciamento das contas, resolução de problemas e possui integração com o PagSeguro.'
 	},
     {
 		'name': 'Encurta me (2016)',
