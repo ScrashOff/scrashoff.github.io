@@ -1,8 +1,53 @@
 ﻿var meusProjetos = [
 	{
+		'name': 'Clínica Ajustar (2023)',
+		'image': 'assets/images/screencapture-clinicasajustar-br-2023-07-02-14_19_48.png',
+		'description': 'Site instucional para a rede de Clínicas Ajustar.'
+	},
+	{
+		'name': 'OnBeef App (2023)',
+		'image': 'assets/images/screencapture-onbeefapp-br-2023-07-02-14_06_43.png',
+		'description': 'Site instucional da plataforma para açougues OnBeef App.'
+	},
+	{
+		'name': 'Benguella Advocacia do Agronegócio (2023)',
+		'image': 'assets/images/screencapture-benguellaadv-br-2023-07-02-14_07_36.png',
+		'description': 'Site instucional do grupo de advogados Benguella.'
+	},
+	{
+		'name': 'Cartório índio Artiaga (2022)',
+		'image': 'assets/images/screencapture-cartorioindioartiaga-br-2023-07-02-14_08_01.png',
+		'description': 'Site instucional do 4° tabelionato de Notas de Goiânia.'
+	},
+	{
+		'name': 'Taurus Elegância (2022)',
+		'image': 'assets/images/screencapture-tauruselegancia-br-2023-07-02-14_07_18.png',
+		'description': 'Plataforma e-commerce de desenvolvimento próprio, com painel administrativo para gerenciamento de pprodutos, categorias, focado na conversão de vendas e experiência do usuário.'
+	},
+	{
+		'name': 'Sistema para Apostas Automáticas na Blaze (2022)',
+		'image': 'assets/images/screencapture-seurobo-app-megablazebot-inicio-2023-07-02-14_06_19.png',
+		'description': 'Plataforma de desenvolvimento próprio com foco na realização de entradas automáticas na Blaze nos Jogos Crash e Double, possui frontend em React e backend em NodeJS, com suporte de até 500 apostadores simultaneamente, este sistema é usado tanto para venda para clientes de nossos clientes no MeuBot.io quanto para entusiastas realizando testes na casa de apostas Blaze.'
+	},
+	{
+		'name': 'MeuBot.io (2022)',
+		'image': 'assets/images/screencapture-app-meublazebot-br-2023-07-02-14_06_59.png',
+		'description': 'Plataforma de desenvolvimento próprio com foco em ser uma ferramenta para pessoas que querem vender sala de sinais de múltiplas casas de apostas no Telegram, atualmente (07/2023) possui cerca de 500 robôs da Blaze + 600 das casa de apostas SmashUp/Brabet/EstrelaBet/1Win/20bet/PopLottery/PopBra/LuckSpinBet. Este sistema possui configuração do robô, mensagens personalizadas, configuração única de estratégias, configuração de stickers e gifs, painel administrativo para gerenciamento de usuários e pagamentos.'
+	},
+	{
+		'name': 'Histórico Blaze (2022)',
+		'image': 'assets/images/screencapture-historicoblaze-br-double-2023-07-02-14_09_29.png',
+		'description': 'Plataforma de desenvolvimento próprio com foco em mostrar o Histórico dos jogos Double e Crash do site de apostas Blaze, com SEO conseguimos o 2°lugar de buscas no Google, atualmente possui cerca de 80 mil acessos mensais e anúncios da Clever Advertising, o site tem cerca de 100 cadastros por dia de forma orgânica, sem anúncios ou divulgação, com cerca de 60 usuários acessando simultaneamente.'
+	},
+	{
+		'name': 'Converte.io (2022)',
+		'image': 'assets/images/clore.com.br.png',
+		'description': 'Plataforma de desenvolvimento próprio com foco de aumentar a retenção e conversão de VSLs, com um player de vídeos próprio que tinha várias funcionalidades personalizáveis pelos próprios usuários em cada um de seus VSL, como Smart Autoplay (inicio do vídeo automaticamente ao acessar), CTA (botões de CTA configurados pelo usuário), Thumbnails de saída e entrada, Resume play (para usuários que saiam e voltavam para o site, o vídeo estava no mesmo lugar), painel para cadastro, edição, visualização de relatórios de VSLs.'
+	},
+	{
 		'name': 'Clorê (2021)',
 		'image': 'assets/images/clore.com.br.png',
-		'description': 'Sistema de e-commerce completo com painel administrativo de desenvolvimento próprio, focado na conversão de vendas e experiência do usuário.'
+		'description': 'Plataforma e-commerce de desenvolvimento próprio, com painel administrativo para gerenciamento de pprodutos, categorias, focado na conversão de vendas e experiência do usuário.'
 	},
 	{
 		'name': 'UNIPAN Distribuição (2021)',
@@ -22,53 +67,53 @@
 	{
 		'name': 'TudoLog (2020)',
 		'image': 'assets/images/flow.tudolog.com.br.png',
-		'description': 'Landing page institucional exclusiva para transportadora. O site possui sistema de rastreio e foi utilizado a api interna para consultas no site.'
+		'description': 'Landing page institucional exclusiva para transportadora. O site possui sistema de rastreio e foi utilizado a API interna para consultas no site.'
 	},
 	{
 		'name': 'Beneditto Restaurante (2020)',
 		'image': 'assets/images/flow.beneditto.com.br.png',
-		'description': 'Landing page institucional para restaurante contemporâneo que proporciona uma experiência personalizada para o cliente, oferecendo um menu online disponível via QRCode nas mesas.'
+		'description': 'Landing page institucional para restaurante, oferecendo um menu online disponível via QRCode nas mesas.'
 	},
     {
 		'name': 'SGNE - Sistema de gerenciamento de negócios especializado (2020)',
 		'image': 'assets/images/painel.domma.store.png',
-		'description': 'Plataforma para gestão empresarial, inclui cadastro de clientes, transportadoras, funcionário, produtos com ou sem variações, controle de estoque completo, geração de código de barras, controle financeiro, integração com ecommerce, relatórios DRE e muito mais.'
+		'description': 'Plataforma para gestão empresarial de desenvolvimento próprio, inclui cadastro de clientes, transportadoras, colaboradores, produtos com ou sem variações, controle de estoque completo, geração de código de barras, controle financeiro, integração com ecommerce, relatórios DRE e muito mais.'
 	},
     {
 		'name': 'DOMMA - Ecommerce (2020)',
 		'image': 'assets/images/dommastore.com.br.png',
-		'description': 'Plataforma estilo ecommerce que permite estilização, adição de categorias, produtos, totalmente integrado com o Painel de Gestão Empresarial próprio e possível abertura para franqueados online. E é totalmente responsivo.'
+		'description': 'Plataforma e-commerce de desenvolvimento próprio que permite estilização, gerenciamento de categorias/produtos (descrição etc)/usuários, termos de pesquisa. Integrado com PayPal, PagSeguro, MercadoPago e Pagar.me'
 	},
     {
-		'name': 'Potatos Roleplay (2019)',
+		'name': 'Potatos Roleplay (2018-2020)',
 		'image': 'assets/images/followinsta.big.png',
 		'youtube': 'https://www.youtube.com/embed/ppox7kbFa_o',
-		'description': 'A primeira comunidade de Roleplay no GTA 5 na plataforma fiveM, cuidei de todo desenvolvimento do novo servidor que possui cerca de 50 mil linhas de código, incluindo códigos do HUD.'
+		'description': 'A primeira comunidade de Roleplay no GTA 5 na plataforma fiveM. Entrei no projeto como segundo programador com intuito de expandir a comunidade para um novo mod do GTA 5 (RAGE-MP). Durante 2018 fizemos um MVP do que seria o servidor dentro do RAGE-MP, alcançado cerca de 100 usuários+ online, e lives com mais de 10k de visualizações, comunidade no discord com cerca de 5k usuários. Em 2019 foi necessário reestrutura todo código, onde chegamos a bater 300 usuários simultaneamente online durante os últimos meses do ano de 2019 e o início de 2020, onde sai do projeto e toda empresa Potatos foi reestrutura a partir dai, com novos sócios e programadores.'
 	},
     {
-		'name': 'Curtidas TT (2019)',
+		'name': 'CurtidasTT (2019)',
 		'image': 'assets/images/curtidastt.big.png',
-		'description': 'Plataforma que permite usuários do twitter ganhem curtidas em seus posts, também cuidei do frontend e backend no projeto todo. Possui painel administrativo próprio.'
+		'description': 'Plataforma de desenvolvimento próprio que permitia os usuários ganhassem curtidas em seus posts no twitter, e com painel administrativo para gerencimento de usuários, assinaturas, pagamentos e pacotes.'
 	},
     {
 		'name': 'FollowInsta (2017-2019)',
 		'image': 'assets/images/followinsta.big.png',
-		'description': 'Uma plataforma que permite que os usuários ganhem seguidores no instagram, no projeto, cuidei do desenvolvimento do layout, codificação frontend e backend, também possui um painel exclusivo para gerenciamento das contas, resolução de problemas e possui integração com o PagSeguro.'
+		'description': 'Uma plataforma de desenvolvimento próprio que permitia que os usuários ganhassem seguidores no instagram. Inicialmente entrei em 2017 durante a segunda versão do site, e então cuidei do desenvolvimento da nova versão do site, aumentando o faturamento mensal de R$20.000,00 para R$80.000,00 (aumento de 300%). Foi desenvolvimento um novo frontend e backend, também com um painel exclusivo para gerenciamento das contas, resolução de problemas, assinaturas, pacotes e possui integração de pagamentos com o PagSeguro.'
 	},
     {
 		'name': 'Encurta me (2016)',
 		'image': 'assets/images/encurtame.big.png',
-		'description': 'Um sistema que permite com que os usuários que encurtem as suas urls no site ganhem dinheiro a cada 1000 acessos no link. Cuidei de todo desenvolvimento desde design, frontend, backend e um painel administrativo exclusivo para as necessidades do site. Possui integração com PayPal.'
+		'description': 'Uma plataforma de desenvolvimento próprio que permitia com que os usuários que encurtassem as suas urls no site ganhem dinheiro a cada 1000 acessos no link. O sistema possuia painel administrativo, painel do anunciante e painel do usuário, possuindo duas frentes diferentes, espaço para anunciar nas URLs encurtadas e o espaço para pessoas ganharem dinheiro encurtando os links na plataforma.'
 	},
     {
 		'name': 'Alcance Social (2016)',
 		'image': 'assets/images/alcancesocial.min.png',
-		'description': 'Uma plataforma onde donos de páginas no facebook podem lucrar com seus seguidores, impulsionando suas postagens e gerando lucro com seus curtidores, nesse projeto cuideo do design e programação dos sistemas.'
+		'description': 'Uma plataforma de desenvolvimento próprio, onde donos de páginas no facebook podiam lucrar com seus seguidores, impulsionando suas postagens e gerando lucro com seus curtidores, nesse projeto cuidei do design e desenvolvimento do backend.'
 	},
     {
 		'name': 'Legendado (2015)',
 		'image': 'assets/images/legendado.min.png',
-		'description': 'Plataforma online que disponibilizava legenda para vários filmes, séries e documentários nacionais e internacionais. No projeto, cuidei do design e programação dos sistemas, incluindo painel administrativo para as necessidades do site.'
+		'description': 'Plataforma de desenvolvimento próprio que disponibilizava legenda para vários filmes, séries e documentários nacionais e internacionais. No projeto, cuidei do design e programação do backend, incluindo painel administrativo para as necessidades do site, como adição de filmes, legendas, moderação de comentários etc.'
 	},
     {
 		'name': 'Troia Games (2011)',
