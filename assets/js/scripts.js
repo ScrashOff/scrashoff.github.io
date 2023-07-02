@@ -5,6 +5,11 @@
 		'description': 'Site instucional para a rede de Clínicas Ajustar.'
 	},
 	{
+		'name': 'Termômetro Social V1 (oportaldeideais) (2023)',
+		'image': 'assets/images/screencapture-termometro-frontend-rc-candidate-vercel-app-2023-07-02-14_34_58.png',
+		'description': 'Frontend em React com MaterialUI da primeira versão da ferramenta de termômetro social do https://oportal.app. Em parceria diretamente com Alyf Mendonça desenvolvedor responsável pelo time de tecnologia da ASUPERNOVA e Investidor Sardinha.'
+	},
+	{
 		'name': 'OnBeef App (2023)',
 		'image': 'assets/images/screencapture-onbeefapp-br-2023-07-02-14_06_43.png',
 		'description': 'Site instucional da plataforma para açougues OnBeef App.'
