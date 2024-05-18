@@ -1,5 +1,10 @@
 ﻿var meusProjetos = [
 	{
+		'name': 'CDMF.com.br (2024)',
+		'image': 'assets/images/screencapture-cdmf-br-2024-05-17-20_34_24.png',
+		'description': 'Site totalmente customizado com painel administrativo próprio para gerenciamento de textos, posts, planos, banners, com área de membros gratuitos e pagos, painel interativo com indices financeiros importantes retirados da API websocket da investing.com, sistema de recomendação de carteiras, aulas e opiniões de especialistas no mercado financeiro. O sistema conta também com otimização com Redis para carregamento dos paineis interativos dentro do site.'
+	},
+	{
 		'name': 'Clínicas Ajustar (2023~2024)',
 		'image': 'assets/images/clinicasajustar-sistema.png',
 		'description': 'Sistema de gerenciamento completo para uma clínica com tratamento em sessões. Conta com Integração com Conta Azul, Facebook Lead Ads, CRM próprio, visão geral de marketing, métricas essenciais para análise dos sócios e administrativo da empresa, sistema de agendamento, gerenciamento de contrato em sessões e sessões individuais e muito mais.'
