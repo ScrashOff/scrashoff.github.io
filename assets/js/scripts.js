@@ -1,5 +1,10 @@
 ﻿var meusProjetos = [
 	{
+		'name': 'Benguella & Bispo Landing Page (2024)',
+		'image': 'assets/images/screencapture-benguellaadv-br-lp-2024-2024-05-17-21_35_09.png',
+		'description': 'Landing page customizada com foco em alta conversão.'
+	},
+	{
 		'name': 'CDMF.com.br (2024)',
 		'image': 'assets/images/screencapture-cdmf-br-2024-05-17-20_34_24.png',
 		'description': 'Site totalmente customizado com painel administrativo próprio para gerenciamento de textos, posts, planos, banners, com área de membros gratuitos e pagos, painel interativo com indices financeiros importantes retirados da API websocket da investing.com, sistema de recomendação de carteiras, aulas e opiniões de especialistas no mercado financeiro. O sistema conta também com otimização com Redis para carregamento dos paineis interativos dentro do site.'
