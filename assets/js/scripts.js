@@ -1,5 +1,10 @@
 ﻿var meusProjetos = [
 	{
+		'name': 'Clínicas Ajustar (2023~2024)',
+		'image': 'assets/images/clinicasajustar-sistema.png',
+		'description': 'Sistema de gerenciamento completo para uma clínica com tratamento em sessões. Conta com Integração com Conta Azul, Facebook Lead Ads, CRM próprio, visão geral de marketing, métricas essenciais para análise dos sócios e administrativo da empresa, sistema de agendamento, gerenciamento de contrato em sessões e sessões individuais e muito mais.'
+	},
+	{
 		'name': 'Clínica Ajustar (2023)',
 		'image': 'assets/images/screencapture-clinicasajustar-br-2023-07-02-14_19_48.png',
 		'description': 'Site instucional para a rede de Clínicas Ajustar.'
